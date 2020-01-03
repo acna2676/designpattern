@@ -14,3 +14,5 @@ public class CountDisplay extends Display {
 
 // FIXME:aiueo
 // TODO:aaaaa
+// NOTE:ssss
+// WARNING:...

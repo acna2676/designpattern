@@ -36,3 +36,5 @@ public class CountDisplay2 extends Display {
         close();
     }
 }
+
+//practice stash

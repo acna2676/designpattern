@@ -23,3 +23,16 @@ public class CountDisplay extends Display {
 //change on develop branch 2
 
 // TODO: 開発をはじめよう
+public class CountDisplay2 extends Display {
+    public CountDisplay(DisplayImpl impl) {
+        super(impl);
+    }
+
+    public void multiDisplay(int times) { // times�󷫤��֤���ɽ������
+        open();
+        for (int i = 0; i < times; i++) {
+            print();
+        }
+        close();
+    }
+}

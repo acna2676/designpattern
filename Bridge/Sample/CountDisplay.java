@@ -18,9 +18,9 @@ public class CountDisplay extends Display {
 // WARNING:...
 // CHANGED:,,,
 
-//change on develop branch
+// change on develop branch
 
-//change on develop branch 2
+// change on develop branch 2
 
 // TODO: 開発をはじめよう
 public class CountDisplay2 extends Display {
@@ -37,8 +37,7 @@ public class CountDisplay2 extends Display {
     }
 }
 
-//practice stash
-//practice stash2
+// practice stash
+// practice stash2
 
-//v2
-
+// v2
